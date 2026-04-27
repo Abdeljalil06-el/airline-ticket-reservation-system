@@ -1,0 +1,22 @@
+# NetBeans build files
+build/
+dist/
+nbproject/private/
+
+# Compiled class files
+*.class
+
+# Google Cloud credentials — NEVER upload these
+*.json
+
+# Login saved credentials
+login.properties
+
+# Backup folders
+New folder/
+
+# Mac files
+.DS_Store
+
+# Log files
+*.log
